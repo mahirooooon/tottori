@@ -15,20 +15,70 @@ const locations = [
         lng: 134.2222,
         media: [
             { 
-                type: 'image', 
-                url: 'assets/images/sweets_mille_crepe.png',
-                caption: 'ミルクレープの写真'
-            },
-            { 
-                type: 'image', 
-                url: 'assets/images/sweets_okashi_erabu_girl.png',
-                caption: 'お菓子を選ぶ女性'
+                type: 'video', 
+                url: 'assets/videos/camel01.mp4',
+                caption: 'ラクダに乗れます'
             },
             { 
                 type: 'video', 
-                url: 'assets/videos/eat.mov',
-                caption: '食事風景の動画'
-            }
+                url: 'assets/videos/camel02.mp4',
+                caption: 'ラクダはとてもお利口さん'
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/camel03.mp4',
+                caption: ''
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/sakyu01.mp4',
+                caption: '行ってきまーす！'
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/sakyu02.mp4',
+                caption: 'どこにいるでしょうか？？？'
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/oasis01.mp4',
+                caption: 'オアシスも広いです'
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/oasis02.mp4',
+                caption: 'オアシスの中から見る景色も綺麗です'
+            },
+            { 
+                type: 'image', 
+                url: 'assets/images/sakyu03.jpg',
+                caption: 'こんなシルエット写真も撮れます'
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/sakyu04.mp4',
+                caption: ''
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/sakyu05.mp4',
+                caption: '眺めがいいです'
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/sakyu06.mp4',
+                caption: '海だ！'
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/sakyu07.mp4',
+                caption: '裸足で歩くとちょっと熱い砂'
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/sakyu08.mp4',
+                caption: '海沿いの砂はちょっとしっとり'
+            },
         ]
     },
     { name: "旧国鉄倉吉線廃線跡", lat: 35.3703, lng: 133.7373,
