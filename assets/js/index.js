@@ -210,10 +210,51 @@ const locations = [
     { name: "鳥取砂丘 砂の美術館", lat: 35.5398, lng: 134.2383,
         media: [
             { 
-                type: 'image', 
-                url: 'assets/images/sweets_mille_crepe.png',
-                caption: 'ミルクレープの写真'
+                type: 'video', 
+                url: 'assets/videos/sandmuseum00.mp4',
+                caption: '砂の美術館'
             },
+            { 
+                type: 'video', 
+                url: 'assets/videos/sandmuseum01.mp4',
+                caption: '第15期展示 砂で世界旅行・フランス編'
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/sandmuseum02.mp4',
+                caption: 'ヴェルサイユ宮殿'
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/sandmuseum03.mp4',
+                caption: '奥行きがあるように見えるけど、無い'
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/sandmuseum04.mp4',
+                caption: '民衆を導く自由の女神'
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/sandmuseum05.mp4',
+                caption: 'フランスのファッション'
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/sandmuseum06.mp4',
+                caption: '鐘、2回鳴ってしまいました'
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/sandmuseum07.mp4',
+                caption: '展望台から夕日が見えました'
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/sandmuseum08.mp4',
+                caption: '外にも展示があります'
+            }
+        
         ]
      },
     { name: "Japanese TOTTORI Noodle 藤喜", lat: 35.4965, lng: 134.2260,
