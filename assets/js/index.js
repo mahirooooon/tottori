@@ -260,10 +260,20 @@ const locations = [
     { name: "Japanese TOTTORI Noodle 藤喜", lat: 35.4965, lng: 134.2260,
         media: [
             { 
-                type: 'image', 
-                url: 'assets/images/sweets_mille_crepe.png',
-                caption: 'ミルクレープの写真'
+                type: 'video', 
+                url: 'assets/videos/ramen01.mp4',
+                caption: '入口の様子'
             },
+            { 
+                type: 'video', 
+                url: 'assets/videos/ramen02.mp4',
+                caption: '極み醤油、極み塩、極み味噌'
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/ramen03.mp4',
+                caption: 'おいしい！'
+            }
         ]
      },
     { name: "浦富海岸 遊覧船", lat: 35.5797, lng: 134.2978,
