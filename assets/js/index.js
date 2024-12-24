@@ -280,8 +280,58 @@ const locations = [
         media: [
             { 
                 type: 'image', 
-                url: 'assets/images/sweets_mille_crepe.png',
-                caption: 'ミルクレープの写真'
+                url: 'assets/images/uradome01.jpg',
+                caption: '遊覧船に乗ります'
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/uradome02.mp4',
+                caption: '小さな島がたくさん'
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/uradome03.mp4',
+                caption: '千貫松島 1本の松が生えています'
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/uradome04.mp4',
+                caption: '島のスレスレを通ります'
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/uradome05.mp4',
+                caption: '大迫力'
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/uradome06.mp4',
+                caption: '岩美ブルーと呼ばれる透明度の高い海'
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/uradome07.mp4',
+                caption: '水深7mの海底がはっきり見えます'
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/uradome08.mp4',
+                caption: 'いろんな種類の鳥が見れました'
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/uradome09.mp4',
+                caption: '船の後ろの景色'
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/uradome10.mp4',
+                caption: '船着場の売店'
+            },
+            { 
+                type: 'image', 
+                url: 'assets/images/uradome11.mp4',
+                caption: 'イカスミソフトミックス'
             },
         ]
      },
