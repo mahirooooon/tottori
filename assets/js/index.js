@@ -338,10 +338,36 @@ const locations = [
     { name: "法師ヶ滝", lat: 35.3963, lng: 134.0276,
         media: [
             { 
-                type: 'image', 
-                url: 'assets/images/sweets_mille_crepe.png',
-                caption: 'ミルクレープの写真'
+                type: 'video', 
+                url: 'assets/images/houshi01.mp4',
+                caption: '車で入れるのは途中まで。ここからは歩きます！'
             },
+            { 
+                type: 'image', 
+                url: 'assets/images/houshi02.jpg',
+                caption: '注意書き必読！'
+            },
+            { 
+                type: 'video', 
+                url: 'assets/images/houshi03.mp4',
+                caption: '足元危険注意！'
+            },{ 
+                type: 'video', 
+                url: 'assets/images/houshi04.mp4',
+                caption: '水がとても澄んでいます'
+            },{ 
+                type: 'video', 
+                url: 'assets/images/houshi05.mp4',
+                caption: '岩が大きい！'
+            },{ 
+                type: 'video', 
+                url: 'assets/images/houshi06.mp4',
+                caption: '夏でもとても冷たいです！'
+            },{ 
+                type: 'video', 
+                url: 'assets/images/houshi07.mp4',
+                caption: '岩を越えて上流へ登れます'
+            }
         ]
      },
     { name: "三朝温泉", lat: 35.4102, lng: 133.8944,
