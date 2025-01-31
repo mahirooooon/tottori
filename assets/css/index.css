@@ -29,7 +29,9 @@
     height: 100vh; /* 地図を全画面表示 */
     margin: 0;
 }
-
+.leaflet-container {
+    overflow: visible;
+}
 .swiper {
     width: 300px;
     height: 500px;
