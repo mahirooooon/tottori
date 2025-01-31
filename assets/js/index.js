@@ -339,7 +339,7 @@ const locations = [
         media: [
             { 
                 type: 'video', 
-                url: 'assets/images/houshi01.mp4',
+                url: 'assets/videos/houshi01.mp4',
                 caption: '車で入れるのは途中まで。ここからは歩きます！'
             },
             { 
@@ -373,10 +373,65 @@ const locations = [
     { name: "三朝温泉", lat: 35.4102, lng: 133.8944,
         media: [
             { 
-                type: 'image', 
-                url: 'assets/images/sweets_mille_crepe.png',
-                caption: 'ミルクレープの写真'
+                type: 'video', 
+                url: 'assets/videos/misasa01.mp4',
+                caption: ''
             },
+            { 
+                type: 'video', 
+                url: 'assets/videos/misasa02.mp4',
+                caption: ''
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/misasa03.mp4',
+                caption: ''
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/misasa04.mp4',
+                caption: ''
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/misasa05.mp4',
+                caption: ''
+            },
+            { 
+                type: 'image', 
+                url: 'assets/images/misasa06.jpg',
+                caption: ''
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/misasa07.mp4',
+                caption: ''
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/misasa08.mp4',
+                caption: ''
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/misasa09.mp4',
+                caption: ''
+            },
+            { 
+                type: 'image', 
+                url: 'assets/images/misasa10.jpg',
+                caption: ''
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/misasa11.mp4',
+                caption: ''
+            },
+            { 
+                type: 'video', 
+                url: 'assets/videos/misasa12.mp4',
+                caption: ''
+            }
         ]
      }
 ];
