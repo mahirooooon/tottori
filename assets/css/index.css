@@ -11,7 +11,20 @@
 *{
     font-family: 'Noto Sans JP', sans-serif;
 }
-
+#header{
+    position: absolute;
+    top: 0;
+    right: 2rem;
+    color: #fff;
+    z-index: 800;
+}
+#footer{
+    position: absolute;
+    bottom: 0;
+    right: 2rem;
+    color: #fff;
+    z-index: 800;
+}
 #map {
     height: 100vh; /* 地図を全画面表示 */
     margin: 0;
