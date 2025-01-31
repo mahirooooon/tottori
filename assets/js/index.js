@@ -86,47 +86,47 @@ const locations = [
             { 
                 type: 'image', 
                 url: 'assets/images/kurayoshiline01.jpg',
-                caption: ''
+                caption: '山守駅跡'
             },
             { 
                 type: 'image', 
                 url: 'assets/images/kurayoshiline02.jpg',
-                caption: ''
+                caption: 'キノコが生えていました'
             },
             { 
                 type: 'video', 
                 url: 'assets/videos/kurayoshiline03.mp4',
-                caption: ''
+                caption: '梨が売っていました！'
             },
             { 
                 type: 'video', 
                 url: 'assets/videos/kurayoshiline04.mp4',
-                caption: ''
+                caption: '途中までの線路'
             },
             { 
                 type: 'video', 
                 url: 'assets/videos/kurayoshiline05.mp4',
-                caption: ''
+                caption: '泰久寺跡'
             },
             { 
                 type: 'image', 
                 url: 'assets/images/kurayoshiline06.jpg',
-                caption: ''
+                caption: '栗を見つけました'
             },
             { 
                 type: 'video', 
                 url: 'assets/videos/kurayoshiline07.mp4',
-                caption: ''
+                caption: 'セミの声が聞こえます'
             },
             { 
                 type: 'image', 
                 url: 'assets/images/kurayoshiline08.jpg',
-                caption: ''
+                caption: '竹林'
             },
             { 
                 type: 'image', 
                 url: 'assets/images/kurayoshiline09.jpg',
-                caption: ''
+                caption: '行き止まりです'
             },
         ]
      },
@@ -159,12 +159,12 @@ const locations = [
             { 
                 type: 'image', 
                 url: 'assets/images/kisuikuko01.jpg',
-                caption: ''
+                caption: 'おしゃれな本屋さんがありました'
             },
             { 
                 type: 'video', 
                 url: 'assets/videos/kisuikuko02.mp4',
-                caption: ''
+                caption: '奥にはカフェスペースもあります'
             }
         ]
      },
@@ -375,42 +375,42 @@ const locations = [
             { 
                 type: 'video', 
                 url: 'assets/videos/misasa01.mp4',
-                caption: ''
+                caption: '三徳川'
             },
             { 
                 type: 'video', 
                 url: 'assets/videos/misasa02.mp4',
-                caption: ''
+                caption: '三朝橋を下りる'
             },
             { 
                 type: 'video', 
                 url: 'assets/videos/misasa03.mp4',
-                caption: ''
+                caption: '河原風呂(混浴露天風呂・足湯)がありました'
             },
             { 
                 type: 'video', 
                 url: 'assets/videos/misasa04.mp4',
-                caption: ''
+                caption: '浴衣で温泉街を散策'
             },
             { 
                 type: 'video', 
                 url: 'assets/videos/misasa05.mp4',
-                caption: ''
+                caption: '足湯に入ります'
             },
             { 
                 type: 'image', 
                 url: 'assets/images/misasa06.jpg',
-                caption: ''
+                caption: '足湯・飲泉湯の薬師の湯'
             },
             { 
                 type: 'video', 
                 url: 'assets/videos/misasa07.mp4',
-                caption: ''
+                caption: 'あったか〜い'
             },
             { 
                 type: 'video', 
                 url: 'assets/videos/misasa08.mp4',
-                caption: ''
+                caption: '風車が回っています'
             },
             { 
                 type: 'video', 
@@ -420,12 +420,12 @@ const locations = [
             { 
                 type: 'image', 
                 url: 'assets/images/misasa10.jpg',
-                caption: ''
+                caption: '有楽で日帰り入浴'
             },
             { 
                 type: 'video', 
                 url: 'assets/videos/misasa11.mp4',
-                caption: ''
+                caption: '日帰り入浴は15：00～21：00 大人800円 子供400円'
             },
             { 
                 type: 'video', 
